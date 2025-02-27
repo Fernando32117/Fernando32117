@@ -50,6 +50,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+###
+
+![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
