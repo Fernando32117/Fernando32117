@@ -50,11 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-![Snake animation](https://raw.githubusercontent.com/Fernando32117/Fernando32117/output/snake.gif)
 
 ###
 
