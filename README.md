@@ -54,7 +54,7 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Fernando32117/Fernando32117/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Fernando32117/Fernando32117/output/snake.gif)
 
 ###
 
