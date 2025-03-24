@@ -1,4 +1,4 @@
-<h2 align="left">Olá,</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=💻Francisco+Fernando+de+S+Araujo💻" alt="Typing SVG" /></a>
 
 ###
 
