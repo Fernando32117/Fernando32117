@@ -6,7 +6,11 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação 8° semestre com experiência prática em desenvolvimento web e forte interesse em aprender e aplicar tecnologias inovadoras. Tenho habilidades em React, Angular, Java, C#, Express, NodeJs e SQL, adquiridas através de projetos acadêmicos e experiências profissionais além de habilidades com metodologias ágeis.</p>
+<p align="left">Oi! Sou um Desenvolvedor Web Full Stack que adora transformar ideias em soluções digitais que realmente fazem a diferença. Hoje, estou trabalhando na Psyc’s, uma plataforma incrível que conecta pessoas a psicólogos para atendimentos online, ajudando a tornar o cuidado com a saúde mental mais acessível e prático. É gratificante saber que o código que escrevo impacta a vida de tanta gente!
+
+No dia a dia, trabalho com tecnologias como React, Next.js, PHP (com Yii2), Node.js, PostgreSQL e TailwindCSS, sempre em um ambiente ágil onde colaboro com um time que valoriza qualidade e inovação. Também tenho experiência com JavaScript, TypeScript, Angular, Python, bancos de dados como MySQL e SQLite, além de usar Git para versionamento. Recentemente, venho me aprofundando em testes automatizados com Cypress, porque acredito que um software bem feito precisa ser confiável.
+
+O que me move é aprender algo novo todo dia, escrever códigos mais limpos e trabalhar em projetos que têm propósito. Sou aquele cara que gosta de trocar ideias com o time, enfrentar desafios e crescer junto. Seja construindo uma nova funcionalidade ou otimizando algo que já existe, estou sempre buscando fazer o meu melhor.</p>
 
 ###
 
