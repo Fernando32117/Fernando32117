@@ -6,11 +6,13 @@
 
 ###
 
-<p align="left">Oi! Sou um Desenvolvedor Web Full Stack que adora transformar ideias em soluções digitais que realmente fazem a diferença. Hoje, estou trabalhando na Psyc’s, uma plataforma incrível que conecta pessoas a psicólogos para atendimentos online, ajudando a tornar o cuidado com a saúde mental mais acessível e prático. É gratificante saber que o código que escrevo impacta a vida de tanta gente!
+<p align="left">Me chamo Francisco Fernando e sou Desenvolvedor Full Stack com 2 anos de experiência profissional. Nesse tempo, tive a oportunidade de crescer dentro de um ambiente real de produto, enfrentando desafios do dia a dia que vão muito além do que qualquer curso ou tutorial pode ensinar.
 
-No dia a dia, trabalho com tecnologias como React, Next.js, PHP (com Yii2), Node.js, PostgreSQL e TailwindCSS, sempre em um ambiente ágil onde colaboro com um time que valoriza qualidade e inovação. Também tenho experiência com JavaScript, TypeScript, Angular, Python, bancos de dados como MySQL e SQLite, além de usar Git para versionamento. Recentemente, venho me aprofundando em testes automatizados com Cypress, porque acredito que um software bem feito precisa ser confiável.
+Atualmente faço parte do time de desenvolvimento da plataforma PSYC'S, onde atuo no frontend e backend utilizando React, Angular, Next.js, React Native, PHP (Yii2), Node.js, PostgreSQL e TailwindCSS. Trabalho em um ciclo ágil com foco em entregas contínuas, code review e colaboração constante com o time.
 
-O que me move é aprender algo novo todo dia, escrever códigos mais limpos e trabalhar em projetos que têm propósito. Sou aquele cara que gosta de trocar ideias com o time, enfrentar desafios e crescer junto. Seja construindo uma nova funcionalidade ou otimizando algo que já existe, estou sempre buscando fazer o meu melhor.</p>
+Fora do trabalho, invisto meu tempo em projetos pessoais para expandir meu repertório técnico — explorando TypeScript, Angular e testes automatizados com Cypress. Tenho familiaridade com bancos de dados relacionais (PostgreSQL, MySQL, SQLite), versionamento com Git e ambientes containerizados com Docker.
+
+Sou movido pela curiosidade e pela vontade de evoluir continuamente. Acredito que os melhores desenvolvedores não são os que sabem tudo, mas os que nunca param de aprender — e é exatamente assim que encaro cada novo desafio. 🚀</p>
 
 ###
 
