@@ -85,9 +85,3 @@ Sou movido pela curiosidade e pela vontade de evoluir continuamente. Acredito qu
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Fernando32117/Fernando32117/output/snake.svg" alt="Snake animation" />
-
-###
